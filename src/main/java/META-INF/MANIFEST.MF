@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: org.example.Main
+Class-Path: junit-jupiter-5.8.2.jar junit-jupiter-api-5.8.2.jar opentest
+ 4j-1.2.0.jar apiguardian-api-1.1.2.jar junit-platform-engine-1.8.2.jar 
+ junit-jupiter-params-5.8.2.jar junit-jupiter-engine-5.8.2.jar junit-pla
+ tform-commons-1.8.2.jar
+
